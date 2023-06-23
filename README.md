@@ -39,7 +39,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/). To get it runnin
 1. **Clone the repository**
 
 ```shell
-git clone https://github.com/username/repository.git
+git clone https://github.com/muhammed/task-group-progress.git
 ```
 
 2. **Install dependencies**
